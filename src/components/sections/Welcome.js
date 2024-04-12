@@ -83,7 +83,7 @@ class HeroSplit extends React.Component {
                     Engenheiro de Software
                   </p>
                   <p>
-                    1x Aws Certified Cloud Pratictioner
+                    1x Aws Certified
                   </p>
                 </div>
                 <div className="hero-figure split-item-image split-item-image-fill illustration-element-01 reveal-from-bottom">

@@ -58,19 +58,13 @@ class Roadmap extends React.Component {
             <SectionHeader data={sectionHeader} className="center-content" />
             <Timeline>
               <TimelineItem title="Jun/2022 - Até o momento">
-                Atuação como Engenheiro de Software para o cliente VIVO/Telefónica junto ao projeto Fênix,
-                realizando a transformação digital no B2B e especializado na construção de integrações constituídas
-                por API Gateway, Mensageria e Microsserviços com Java e Spring Boot.
+                Engenheiro de Software
               </TimelineItem>
               <TimelineItem title="Set/2021 - Jun/2022">
-                Participação no programa de bolsas Open Banking durante 3 meses onde foram concluídos diversos
-                cursos e desenvolvimentos com ênfase em Back-End utilizando Java e Spring Boot e após atuei
-                junto ao time NotaNet, um software para emissão e recebimento de notas fiscais do iStudio de
-                Payment Solutions utilizando Java e Spring.
+                Desenvolvedor Back-End
               </TimelineItem>
               <TimelineItem title="Abr/2020 - Set/2020">
-                Desenvolvimento e manutenção de softwares de crédito para os clientes Sicredi, Unicred e Ailos
-                utilizando PHP, JavaScript, HTML, CSS e MySQL.
+                Desenvolvedor Full-Stack
               </TimelineItem>
             </Timeline>
           </div>
